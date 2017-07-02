@@ -1,11 +1,10 @@
 *
-node_modules/
 
 !.gitignore
-!src/**
-!public/**
+!/src/**
+!/public/**
 !package.json
 !README.md
 !yarn.lock
 
-!*/
+!/*/
